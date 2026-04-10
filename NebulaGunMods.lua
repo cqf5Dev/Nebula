@@ -12,11 +12,11 @@ local WHITELIST = {
 	"AnthonyEnte17",
 	"SiMpLE_77173",
 	"kosovaboyy1",
-	"justsigam2crazy",
 	"Gerry_rp2",
 	"xZryeennn",
 	"Etmalkingi",
-	"Cript1305"
+	"Cript1305",
+	"justsigma2crazy"
 }
 
 local function isWhitelisted(name)
