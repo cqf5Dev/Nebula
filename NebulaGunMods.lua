@@ -16,7 +16,8 @@ local WHITELIST = {
 	"xZryeennn",
 	"Etmalkingi",
 	"Cript1305",
-	"justsigma2crazy"
+	"justsigma2crazy",
+	"silverminite01"
 }
 
 local function isWhitelisted(name)
