@@ -8,7 +8,8 @@ local WHITELIST = {
     "derprollerking",
     "Powerjumper0505",
     "leotrry_6",
-    "salhi1234rayane"
+    "salhi1234rayane",
+    "rylox72"
 }
 
 local allowed = false
