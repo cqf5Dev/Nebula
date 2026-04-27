@@ -9,6 +9,7 @@ local WHITELIST = {
     "Powerjumper0505",
     "leotrry_6",
     "salhi1234rayane",
+    "oskar1234_1",
     "rylox72"
 }
 
