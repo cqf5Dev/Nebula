@@ -3,7 +3,8 @@ local LocalPlayer = Players.LocalPlayer
 
 local whitelist = {
     ["justsigma2crazy"] = true,
-    ["silverminite01"] = true
+    ["silverminite01"] = true,
+    ["Kqlayr"] = true
 }
 
 -- Obfuscated with Matcha Obfuscator
